@@ -1,6 +1,6 @@
 # local-web-services
 
-> **[Full documentation → local-web-services.github.io/www](https://local-web-services.github.io/www)**
+> **[Full documentation → local-web-services.github.io](https://local-web-services.github.io)**
 
 Stop mocking. Run the real thing, locally.
 
@@ -60,4 +60,5 @@ Working examples showing how to use `ldk` and the SDKs in real projects.
 
 ---
 
-For full documentation, guides, and examples visit **[local-web-services.github.io/www](https://local-web-services.github.io/www)**.
+For full documentation, guides, and examples visit **[local-web-services.github.io](https://local-web-services.github.io)**.
+
