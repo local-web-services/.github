@@ -39,6 +39,8 @@ The SDKs give you a drop-in session object that starts `ldk`, patches AWS SDK en
 | Python | [local-web-services-python-sdk](https://github.com/local-web-services/local-web-services-python-sdk) | [`local-web-services-python-sdk`](https://pypi.org/project/local-web-services-python-sdk/) on PyPI |
 | TypeScript | [local-web-services-typescript-sdk](https://github.com/local-web-services/local-web-services-typescript-sdk) | [`local-web-services-typescript-sdk`](https://www.npmjs.com/package/local-web-services-typescript-sdk) on npm |
 | JavaScript | [local-web-services-javascript-sdk](https://github.com/local-web-services/local-web-services-javascript-sdk) | [`local-web-services-javascript-sdk`](https://www.npmjs.com/package/local-web-services-javascript-sdk) on npm |
+| Java | [local-web-services-java-sdk](https://github.com/local-web-services/local-web-services-java-sdk) | GitHub Packages (`io.localwebservices:local-web-services-java-sdk`) |
+| Go | [local-web-services-go-sdk](https://github.com/local-web-services/local-web-services-go-sdk) | `go get github.com/local-web-services/local-web-services-go-sdk` |
 
 ---
 
@@ -53,6 +55,8 @@ Working examples showing how to use `ldk` and the SDKs in real projects.
 | [sdk-python-example-project](https://github.com/local-web-services/local-web-services-sdk-python-example-project) | Python SDK | pytest fixtures reading state machine definitions from Terraform config |
 | [sdk-typescript-example-project](https://github.com/local-web-services/local-web-services-sdk-typescript-example-project) | TypeScript SDK | Jest tests with Step Functions discovered from HCL |
 | [sdk-javascript-example-project](https://github.com/local-web-services/local-web-services-sdk-javascript-example-project) | JavaScript SDK | Jest tests with Step Functions discovered from HCL |
+| [sdk-java-example-project](https://github.com/local-web-services/local-web-services-sdk-java-example-project) | Java SDK | JUnit 5 tests with Step Functions discovered from Terraform config |
+| [sdk-go-example-project](https://github.com/local-web-services/local-web-services-sdk-go-example-project) | Go SDK | Go tests with Step Functions discovered from Terraform config |
 
 ---
 
