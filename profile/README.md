@@ -36,11 +36,11 @@ The SDKs give you a drop-in session object that starts `ldk`, patches AWS SDK en
 
 | Language | Repo | Package |
 |----------|------|---------|
-| Python | [local-web-services-python-sdk](https://github.com/local-web-services/local-web-services-python-sdk) | [`local-web-services-python-sdk`](https://pypi.org/project/local-web-services-python-sdk/) on PyPI |
-| TypeScript | [local-web-services-typescript-sdk](https://github.com/local-web-services/local-web-services-typescript-sdk) | [`local-web-services-typescript-sdk`](https://www.npmjs.com/package/local-web-services-typescript-sdk) on npm |
-| JavaScript | [local-web-services-javascript-sdk](https://github.com/local-web-services/local-web-services-javascript-sdk) | [`local-web-services-javascript-sdk`](https://www.npmjs.com/package/local-web-services-javascript-sdk) on npm |
-| Java | [local-web-services-java-sdk](https://github.com/local-web-services/local-web-services-java-sdk) | GitHub Packages (`io.localwebservices:local-web-services-java-sdk`) |
-| Go | [local-web-services-go-sdk](https://github.com/local-web-services/local-web-services-go-sdk) | `go get github.com/local-web-services/local-web-services-go-sdk` |
+| Python | [lang/python/sdk](https://github.com/local-web-services/local-web-services/tree/main/lang/python/sdk) | [`local-web-services-python-sdk`](https://pypi.org/project/local-web-services-python-sdk/) on PyPI |
+| TypeScript | [lang/typescript/sdk](https://github.com/local-web-services/local-web-services/tree/main/lang/typescript/sdk) | [`local-web-services-typescript-sdk`](https://www.npmjs.com/package/local-web-services-typescript-sdk) on npm |
+| JavaScript | [lang/javascript/sdk](https://github.com/local-web-services/local-web-services/tree/main/lang/javascript/sdk) | [`local-web-services-javascript-sdk`](https://www.npmjs.com/package/local-web-services-javascript-sdk) on npm |
+| Java | [lang/java/sdk](https://github.com/local-web-services/local-web-services/tree/main/lang/java/sdk) | GitHub Packages (`io.localwebservices:local-web-services-java-sdk`) |
+| Go | [lang/go/sdk](https://github.com/local-web-services/local-web-services/tree/main/lang/go/sdk) | `go get github.com/local-web-services/local-web-services-go-sdk` |
 
 ---
 
