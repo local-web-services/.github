@@ -50,8 +50,8 @@ Working examples showing how to use `ldk` and the SDKs in real projects.
 
 | Repo | Stack | What it shows |
 |------|-------|--------------|
-| [sample-project-cdk](https://github.com/local-web-services/local-web-services/tree/main/sample-project-cdk) | CDK | Full CDK app with DynamoDB, SQS, and Step Functions tested locally |
-| [sample-project-hcl](https://github.com/local-web-services/local-web-services/tree/main/sample-project-hcl) | HCL | Same patterns using HCL instead of CDK |
+| [sample-project/cdk](https://github.com/local-web-services/local-web-services/tree/main/sample-project/cdk) | CDK | Full CDK app with DynamoDB, SQS, and Step Functions tested locally |
+| [sample-project/hcl](https://github.com/local-web-services/local-web-services/tree/main/sample-project/hcl) | HCL | Same patterns using HCL instead of CDK |
 | [sdk-python-example-project](https://github.com/local-web-services/local-web-services-sdk-python-example-project) | Python SDK | pytest fixtures reading state machine definitions from Terraform config |
 | [sdk-typescript-example-project](https://github.com/local-web-services/local-web-services-sdk-typescript-example-project) | TypeScript SDK | Jest tests with Step Functions discovered from HCL |
 | [sdk-javascript-example-project](https://github.com/local-web-services/local-web-services-sdk-javascript-example-project) | JavaScript SDK | Jest tests with Step Functions discovered from HCL |
